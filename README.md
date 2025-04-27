@@ -1,14 +1,14 @@
-# 🚓ViruLife.net
-Virtulife ist ein **<ins>Reallife/Roleplay Minecraft Server<ins/>**, mit vielen **einzigartigen Features**.
+# 🚓MelonRP.de
+MelonRP ist ein **<ins>Reallife/Roleplay Minecraft Server<ins/>**, mit vielen **einzigartigen Features**.
 > [!IMPORTANT]
 > ## Builder gesucht!!
 > Ich suche noch weitere Leute die interesse daran haben die Stadt mit aufzubauen!
 <br>
 
 # 📗 Informationen
-- **IP:** VirtuLife.net
+- **IP:** MelonR.de
 - **Version:** 1.21+ (Java)
-- **Discord:** [virtulife](https://discord.gg/jxbYSTb3eE)
+- **Discord:** [MelonRP](https://discord.gg/melonrp)
 >[!CAUTION]
 > Ich arbeite nur an dem Server, wenn ich **Langeweile** haben!\
 > Der Server wird also **<ins>nicht in naher zukunft</ins>** veröffentlicht.
